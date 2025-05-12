@@ -34,6 +34,11 @@ This demo integrates with agent-chat-ui to create an AI agent that can analyze a
 
 4. The server will be running at http://localhost:2024
 
+5. Now start the frontend using 
+ ```
+   npm run dev 
+   ```
+
 ## Integration with agent-chat-ui
 
 This backend is designed to work with the agent-chat-ui frontend. It implements endpoints compatible with the OpenAI Assistants API, allowing it to communicate seamlessly with the agent-chat-ui frontend.
